@@ -19,3 +19,8 @@ Genome wide association studies (GWAS) have associated thousands of loci with qu
 #This branch contains instrumental variables (IVs) used in this study.
 
 They are formatted for direct input into the TwoSampleMR or MVMR packages
+
+Each folder is named for the type of analysis (MR or MVMR), Exposure, Outcome
+e.g., MR.SmkInit.Blood contains IVs for TwoSample analysis using SmkInit as the Exposure and Blood traits as the outcome.
+Each IV within that folder specifies the blood trait outcome
+e.g., MR.SmkInit.HGB.IV.txt is the IV for TwSample analysis of SmkInit Exposure on HGB outcome.
