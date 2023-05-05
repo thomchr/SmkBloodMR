@@ -1,4 +1,4 @@
-# Smoking behavior impacts genetic erythroid trait variation via alcohol intake
+# Tobacco and alcohol use behaviors impact genetically influenced erythroid trait variation
 
 Shriya Shivakumar1,2, Madison B Wilken1, Victor Tsao1,3, Christopher S Thom1,*
 
