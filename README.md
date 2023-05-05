@@ -18,13 +18,14 @@ Genome wide association studies (GWAS) have associated thousands of loci with qu
 
 #GWAS used in this study are listed here:
 
-Smoking and tobacco use: Liu _et al_ 2019. Association studies of up to 1.2 million individuals yield new insights into the genetic etiology of tobacco and alcohol use. Nat Genet.  PMID: 30643251 ___
+Smoking and tobacco use: Liu et al 2019. Association studies of up to 1.2 million individuals yield new insights into the genetic etiology of tobacco and alcohol use. Nat Genet.  PMID: 30643251 
 
-Blood traits: Vuckovic _et al_ 2020. The Polygenic and Monogenic Basis of Blood Traits and Diseases. Cell. PMID: 32888494__
+Blood traits: Vuckovic et al 2020. The Polygenic and Monogenic Basis of Blood Traits and Diseases. Cell. PMID: 32888494
 
-Body mass index: Pulit _et al__2019. _Meta-analysis of genome-wide association studies for body fat distribution in 694 649 individuals of European ancestry. Hum Mol Genet. PMID: 30239722__
+Body mass index: Pulit et al 2019. Meta-analysis of genome-wide association studies for body fat distribution in 694 649 individuals of European ancestry. Hum Mol Genet. PMID: 30239722
 
-Lifetime smoking score: Wootton _et al_ 2019. Evidence for causal effects of lifetime smoking on risk for depression and schizophrenia: a Mendelian randomisation study. Psychol Med. PMID: 31689377__
+Lifetime smoking score: Wootton et al 2019. Evidence for causal effects of lifetime smoking on risk for depression and schizophrenia: a Mendelian randomisation study. Psychol Med. PMID: 31689377
+
 
 
 #R scripts are shown here. Resultant instrumental variables used for our study are in the 'IV's branch of this repo
